@@ -16,4 +16,4 @@
 
 ### Summary
 
-The project consists of economic complex network _econ-psmigr1.mtx_ analysis on global, meso and local level. Studyied network contains matrix type weighted and undirected graph data which describes migrations in USA between 1970 and 1980 from point _x_ to point _y_.
+The project consists of economic complex network _econ-psmigr1.mtx_ analysis on global, meso and local level. Studied network contains matrix type weighted and undirected graph data which describes migrations in USA between 1970 and 1980 from point _x_ to point _y_.
